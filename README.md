@@ -43,7 +43,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 - Será `X` dia de projeto.
 
-- Data para entrega final do projeto: `DD/MM/YYYY - 14:00h`.
+- Data para entrega final do projeto: `04/04/2023 14:00`.
 
 </details>
 
@@ -56,9 +56,9 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-0x-project-lessons-learned.git`
+- Use o comando: `git clone git@github.com:tryber/sd-032-b-project-lessons-learned.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-project-lessons-learned`
+  - `cd sd-032-b-project-lessons-learned`
 
 2. Instale as dependências e inicialize o projeto
 
@@ -78,7 +78,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 4. Crie na raiz do projeto os arquivos que você precisará desenvolver:
 
 - Verifique que você está na raiz do projeto:
-  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-0x-project-lessons-learned**_
+  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-032-b-project-lessons-learned**_
 - Crie os arquivos index.html e style.css:
   - Exemplo: `touch index.html style.css`
 
@@ -101,7 +101,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 7. Crie um novo `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-lessons-learned/pulls)
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-032-b-project-lessons-learned/pulls)
 - Clique no botão verde _"New pull request"_
 - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção** - Coloque um título para o seu _Pull Request_
   - Exemplo: _"Cria tela de busca"_
@@ -111,7 +111,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
  <img width="1335" alt="Exemplo de pull request" src="https://user-images.githubusercontent.com/42356399/166255109-b95e6eb4-2503-45e5-8fb3-cf7caa0436e5.png">
 
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-032-b-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 <details>
@@ -141,7 +141,7 @@ Para sinalizar que o seu projeto está pronto para o _'Code Review'_ dos seus co
 - Vá até a página **DO SEU** _Pull Request_, adicione a label de _'code-review'_ e marque seus colegas:
   - No menu à direita, clique no _link_ **'Labels'** e escolha a _label_ **code-review**;
   - No menu à direita, clique no _link_ **'Assignees'** e escolha **o seu usuário**;
-  - No menu à direita, clique no _link_ **'Reviewers'** e digite `students`, selecione o time `tryber/students-sd-0x`.
+  - No menu à direita, clique no _link_ **'Reviewers'** e digite `students`, selecione o time `tryber/students-sd-032-b`.
 
 Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -278,7 +278,7 @@ Através desta aplicação, será possível realizar a construção de código H
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
 **Leva menos de 3 minutos!**
 
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH32-B&template=betrybe/sd-0x-project-lessons-learned)
 
 </details>
   

@@ -41,7 +41,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 - Este projeto é individual
 
-- Será `X` dia de projeto.
+- Será `1` dia de projeto.
 
 - Data para entrega final do projeto: `04/04/2023 14:00`.
 

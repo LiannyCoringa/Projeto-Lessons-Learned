@@ -32,3 +32,16 @@ body {
 #article {
     color: green;
 }
+.lado-esquerdo {
+    position: absolute;
+    width: 50%;
+    text-align: justify;
+    padding: 15px;
+}
+.lado-direito {
+    position: absolute;
+    width: 30%;
+    text-align: justify;
+    margin-left: 800px;
+    padding: 15px;
+}

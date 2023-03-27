@@ -45,3 +45,8 @@ body {
     margin-left: 800px;
     padding: 15px;
 }
+#rodape {
+    margin-top: 440px;
+    padding: 15px;
+    background-color: rgb(73, 151, 125);
+}

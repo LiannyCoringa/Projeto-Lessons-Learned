@@ -1,7 +1,28 @@
 body {
     background-color: rgb(253, 251, 251);
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 #cabecalho {
     position: fixed;
     top: 0;
+    background-color: green;
+    width: 100%;
+}
+#cabecalho {
+    padding: 15px;
+    text-align: center;
+}
+#minha_foto {
+    width: 300px;
+    margin: 20px;
+}
+#tabela {
+    margin: 20px;
+    border: 1px solid black;
+}
+.TabelaTR td {
+    padding: 15px;
+    border: 1px solid black;
 }
